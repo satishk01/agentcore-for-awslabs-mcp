@@ -1,0 +1,6 @@
+mcp>=1.10.0
+boto3
+bedrock-agentcore
+bedrock-agentcore-starter-toolkit
+streamlit>=1.28.0
+pandas>=2.0.0
